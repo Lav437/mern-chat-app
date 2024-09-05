@@ -54,7 +54,7 @@ The Chat Application is a comprehensive Full Stack solution designed to facilita
 
 4. [Nodejs](https://nodejs.org/en/download/package-manager)  and [MongoDB](https://www.mongodb.com/docs/manual/administration/install-community/)  both should be install and Make sure MongoDB is runing.
  #### Environment Variables
-To run this project, you will need to add the following environment variables to your .env file
+To run this project, you will need to add the following environment variables to your .[.sampleEnv](https://github.com/Lav437/mern-chat-app/blob/main/server/.sampleEnv)
 
 
  #### Run Locally
