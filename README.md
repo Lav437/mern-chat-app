@@ -42,6 +42,8 @@ The Chat Application is a comprehensive Full Stack solution designed to facilita
 ![groupManagement](https://github.com/user-attachments/assets/0facc048-02bd-4e79-a3ba-f50128bef9d4)
 5.Send File
 ![filehandling](https://github.com/user-attachments/assets/aee5baee-2e37-4b12-9717-0fa23dafa1b4)
+6.Chat Interface
+![cahts](https://github.com/user-attachments/assets/5bf70741-dd7b-4f16-9855-94239f01bc19)
 
 ## Installation 
 
@@ -88,13 +90,14 @@ Start the client
 
 
 ## Authors and acknowledgement
-
-- [Lavkush](cs22b034@iittp.ac.in)
-We extend our heartfelt gratitude to Zelta Labs Untrade for the incredible opportunity to develop a MERN stack chat application as part of their project. Working on this initiative has significantly enhanced our skills and provided deep insights into building real-time communication systems.
-
-A special thanks to the vibrant and supportive community on the Zelta Labs Discord channel. Your expertise, invaluable feedback, and continuous encouragement have been essential in overcoming challenges and successfully completing the project. The collaborative spirit within the community has made this experience both enriching and rewarding.
-
-Thank you, Zelta Labs Untrade, and the entire Discord community, for your generosity, support, and the opportunity to learn and grow through this exciting project.
+- [Lavkush Kumar](https://www.linkedin.com/in/lavkush-kumar-39b804274/) 
+-  B.tech (Computer science and Engineering)
+- [IIT Tirupati](https://www.iittp.ac.in/)
+- I would like to extend my sincere gratitude to i am beside you for providing me with the invaluable opportunity to work on the chat application project. This experience has been 
+ instrumental in enhancing my technical skills and deepening my understanding of full-stack development.
+ The chance to work on such a dynamic and engaging project has been a significant milestone in my professional growth.
+ I am grateful for the trust and responsibility you placed in me and for the chance to 
+ contribute to a project that is both challenging and rewarding.
 
 
 ## Appendix
