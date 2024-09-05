@@ -60,7 +60,7 @@ To run this project, you will need to add the following environment variables to
  #### Run Locally
 Clone the project
 ```
-   git clone https://github.com/Lav437/chat-app.git
+   git clone https://github.com/Lav437/mern-chat-app.git
 ```
 Go to the project directory
 ```
