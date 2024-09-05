@@ -31,7 +31,7 @@ The Chat Application is a comprehensive Full Stack solution designed to facilita
 - **Socket.IO:** Library for real-time, bidirectional event-based communication
 
 
-## Screenshots
+## Visuals
 1.Login Page
 ![loginPage](https://github.com/user-attachments/assets/b33b0231-448b-4947-a4d7-91e52b4f3739)
 2.SignUp page
